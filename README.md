@@ -1,5 +1,5 @@
 # django-todo
-A simple todo app built with django
+A simple todo app built with django and Best project for practicing CI/CDs using any of the tools and ya I always use this Project for practice of automation.
 
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
 ### Setup
